@@ -1,0 +1,28 @@
+{
+    "UID": 1107623146484626,
+    "name": "Mesh.0400",
+    "assetPath": "Assets/cubeee.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1389322069170128
+    }
+}

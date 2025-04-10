@@ -1,0 +1,28 @@
+{
+    "UID": 1117632390339395,
+    "name": "SM_Cube_Vas0",
+    "assetPath": "Assets/LVL1-BLOCKOUT.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1313861065344148
+    }
+}

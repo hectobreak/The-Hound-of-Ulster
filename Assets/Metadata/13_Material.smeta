@@ -1,0 +1,10 @@
+{
+    "UID": 1313861065344148,
+    "name": "Material",
+    "assetPath": "Assets/LVL1-BLOCKOUT.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "17833775637929522947",
+        "useOcclusion": false
+    }
+}
