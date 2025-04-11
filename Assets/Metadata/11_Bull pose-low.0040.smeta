@@ -1,0 +1,28 @@
+{
+    "UID": 1174485181379157,
+    "name": "Bull pose-low.0040",
+    "assetPath": "Assets/Bull statue.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 0
+    }
+}
