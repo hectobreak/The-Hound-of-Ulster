@@ -1,0 +1,10 @@
+{
+    "UID": 1376527682341032,
+    "name": "Material.002",
+    "assetPath": "Assets/lvl1.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "7195542222665595186",
+        "useOcclusion": false
+    }
+}

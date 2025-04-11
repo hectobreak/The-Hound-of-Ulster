@@ -1,0 +1,28 @@
+{
+    "UID": 1134622334353267,
+    "name": "Mesh.0720",
+    "assetPath": "Assets/lvl1.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1376527682341032
+    }
+}
