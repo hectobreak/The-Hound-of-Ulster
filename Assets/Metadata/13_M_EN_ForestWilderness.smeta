@@ -1,0 +1,10 @@
+{
+    "UID": 1371378964428393,
+    "name": "M_EN_ForestWilderness",
+    "assetPath": "Assets/all assets.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "52376313037243458",
+        "useOcclusion": false
+    }
+}

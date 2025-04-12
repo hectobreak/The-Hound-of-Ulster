@@ -1,0 +1,10 @@
+{
+    "UID": 1348197081191479,
+    "name": "M_EN_Totem1.001",
+    "assetPath": "Assets/helloo.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "5604222712127332480",
+        "useOcclusion": false
+    }
+}

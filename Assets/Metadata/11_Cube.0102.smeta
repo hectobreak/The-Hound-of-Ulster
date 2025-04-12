@@ -1,0 +1,28 @@
+{
+    "UID": 1125856969947545,
+    "name": "Cube.0102",
+    "assetPath": "Assets/all assets.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1323448072555910
+    }
+}

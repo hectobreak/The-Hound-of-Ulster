@@ -1,0 +1,28 @@
+{
+    "UID": 1175517615872306,
+    "name": "Mesh.0100",
+    "assetPath": "Assets/helloo.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1348197081191479
+    }
+}

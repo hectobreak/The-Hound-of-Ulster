@@ -1,0 +1,10 @@
+{
+    "UID": 1363483524990865,
+    "name": "Bowl1.001",
+    "assetPath": "Assets/all assets.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "4447406668567663408",
+        "useOcclusion": false
+    }
+}

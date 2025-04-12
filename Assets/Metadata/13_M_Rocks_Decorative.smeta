@@ -1,0 +1,10 @@
+{
+    "UID": 1327934810729166,
+    "name": "M_Rocks_Decorative",
+    "assetPath": "Assets/all assets.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "7855564226721048966",
+        "useOcclusion": false
+    }
+}

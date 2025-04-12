@@ -1,0 +1,28 @@
+{
+    "UID": 1132786493362383,
+    "name": "Mesh.0020",
+    "assetPath": "Assets/PR_totem.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1342424698669048
+    }
+}

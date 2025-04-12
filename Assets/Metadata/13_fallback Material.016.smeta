@@ -1,0 +1,10 @@
+{
+    "UID": 1373680329804408,
+    "name": "fallback Material.016",
+    "assetPath": "Assets/all assets.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "5448288446124278733",
+        "useOcclusion": false
+    }
+}

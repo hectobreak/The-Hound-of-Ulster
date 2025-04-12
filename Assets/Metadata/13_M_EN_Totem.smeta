@@ -1,0 +1,10 @@
+{
+    "UID": 1342424698669048,
+    "name": "M_EN_Totem",
+    "assetPath": "Assets/PR_totem.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "8802505181092616686",
+        "useOcclusion": false
+    }
+}

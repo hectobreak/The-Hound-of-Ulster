@@ -1,0 +1,10 @@
+{
+    "UID": 1347959202777682,
+    "name": "M_RocksWC",
+    "assetPath": "Assets/all assets.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "12719440150798663248",
+        "useOcclusion": false
+    }
+}
