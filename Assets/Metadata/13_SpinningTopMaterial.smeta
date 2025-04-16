@@ -1,0 +1,11 @@
+{
+    "UID": 1384479143098218,
+    "name": "SpinningTopMaterial",
+    "assetPath": "Assets/SpinningTop.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "15428978772250390809",
+        "useOcclusion": true,
+        "defaultTextureUID": 0
+    }
+}

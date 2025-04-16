@@ -1,0 +1,11 @@
+{
+    "UID": 1309261228715726,
+    "name": "ZombunnyMaterial",
+    "assetPath": "Assets/Zombunny.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "9061204128217747304",
+        "useOcclusion": true,
+        "defaultTextureUID": 0
+    }
+}

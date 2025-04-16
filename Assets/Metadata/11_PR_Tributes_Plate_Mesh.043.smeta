@@ -1,0 +1,30 @@
+{
+    "UID": 1119261987033171,
+    "name": "PR_Tributes_Plate_Mesh.043",
+    "assetPath": "Assets/Assets-Tutorial-LVL1.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1300000000000000,
+        "gltfMeshIndex": 43,
+        "gltfPrimitiveIndex": 0
+    }
+}

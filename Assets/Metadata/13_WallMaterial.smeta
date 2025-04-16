@@ -1,0 +1,11 @@
+{
+    "UID": 1308684537620063,
+    "name": "WallMaterial",
+    "assetPath": "Assets/Wall.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "12709239425232962279",
+        "useOcclusion": true,
+        "defaultTextureUID": 0
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "UID": 1302211418115273,
+    "name": "StarMaterial",
+    "assetPath": "Assets/Wall.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "18255485525685512960",
+        "useOcclusion": false,
+        "defaultTextureUID": 0
+    }
+}

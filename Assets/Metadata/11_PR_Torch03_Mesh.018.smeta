@@ -1,0 +1,30 @@
+{
+    "UID": 1117406551110834,
+    "name": "PR_Torch03_Mesh.018",
+    "assetPath": "Assets/Assets-Tutorial-LVL1.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1300000000000000,
+        "gltfMeshIndex": 18,
+        "gltfPrimitiveIndex": 0
+    }
+}

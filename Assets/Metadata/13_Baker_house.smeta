@@ -1,0 +1,11 @@
+{
+    "UID": 1303902292906068,
+    "name": "Baker_house",
+    "assetPath": "Assets/BakerHouse.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "shader": "15377202707802585011",
+        "useOcclusion": false,
+        "defaultTextureUID": 0
+    }
+}

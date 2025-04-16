@@ -1,0 +1,30 @@
+{
+    "UID": 1145740971443419,
+    "name": "SpinningTop_SpinningTop",
+    "assetPath": "Assets/SpinningTop.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": false,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1384479143098218,
+        "gltfMeshIndex": 0,
+        "gltfPrimitiveIndex": 0
+    }
+}

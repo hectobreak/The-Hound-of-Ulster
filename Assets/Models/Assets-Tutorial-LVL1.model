@@ -1,0 +1,6281 @@
+{
+    "Model": {
+        "UID": 1460986216727527,
+        "Scenes": [
+            {
+                "rootNode": 0
+            },
+            {
+                "rootNode": 1
+            },
+            {
+                "rootNode": 2
+            },
+            {
+                "rootNode": 3
+            },
+            {
+                "rootNode": 4
+            },
+            {
+                "rootNode": 5
+            },
+            {
+                "rootNode": 6
+            },
+            {
+                "rootNode": 7
+            },
+            {
+                "rootNode": 8
+            },
+            {
+                "rootNode": 9
+            },
+            {
+                "rootNode": 10
+            },
+            {
+                "rootNode": 11
+            },
+            {
+                "rootNode": 12
+            },
+            {
+                "rootNode": 13
+            },
+            {
+                "rootNode": 14
+            },
+            {
+                "rootNode": 15
+            },
+            {
+                "rootNode": 16
+            },
+            {
+                "rootNode": 17
+            },
+            {
+                "rootNode": 18
+            },
+            {
+                "rootNode": 19
+            },
+            {
+                "rootNode": 20
+            },
+            {
+                "rootNode": 21
+            },
+            {
+                "rootNode": 22
+            },
+            {
+                "rootNode": 23
+            },
+            {
+                "rootNode": 24
+            },
+            {
+                "rootNode": 25
+            },
+            {
+                "rootNode": 26
+            },
+            {
+                "rootNode": 27
+            },
+            {
+                "rootNode": 28
+            },
+            {
+                "rootNode": 29
+            },
+            {
+                "rootNode": 30
+            },
+            {
+                "rootNode": 31
+            },
+            {
+                "rootNode": 32
+            },
+            {
+                "rootNode": 33
+            },
+            {
+                "rootNode": 34
+            },
+            {
+                "rootNode": 35
+            },
+            {
+                "rootNode": 36
+            },
+            {
+                "rootNode": 37
+            },
+            {
+                "rootNode": 38
+            },
+            {
+                "rootNode": 39
+            },
+            {
+                "rootNode": 40
+            },
+            {
+                "rootNode": 41
+            },
+            {
+                "rootNode": 42
+            },
+            {
+                "rootNode": 43
+            },
+            {
+                "rootNode": 44
+            },
+            {
+                "rootNode": 45
+            },
+            {
+                "rootNode": 46
+            },
+            {
+                "rootNode": 47
+            },
+            {
+                "rootNode": 48
+            },
+            {
+                "rootNode": 49
+            },
+            {
+                "rootNode": 50
+            },
+            {
+                "rootNode": 51
+            },
+            {
+                "rootNode": 52
+            },
+            {
+                "rootNode": 53
+            },
+            {
+                "rootNode": 54
+            },
+            {
+                "rootNode": 55
+            },
+            {
+                "rootNode": 56
+            },
+            {
+                "rootNode": 57
+            },
+            {
+                "rootNode": 58
+            },
+            {
+                "rootNode": 59
+            },
+            {
+                "rootNode": 60
+            },
+            {
+                "rootNode": 61
+            },
+            {
+                "rootNode": 62
+            },
+            {
+                "rootNode": 63
+            },
+            {
+                "rootNode": 64
+            },
+            {
+                "rootNode": 65
+            },
+            {
+                "rootNode": 66
+            },
+            {
+                "rootNode": 67
+            },
+            {
+                "rootNode": 68
+            },
+            {
+                "rootNode": 69
+            },
+            {
+                "rootNode": 70
+            },
+            {
+                "rootNode": 71
+            },
+            {
+                "rootNode": 72
+            },
+            {
+                "rootNode": 73
+            },
+            {
+                "rootNode": 74
+            },
+            {
+                "rootNode": 75
+            },
+            {
+                "rootNode": 76
+            },
+            {
+                "rootNode": 77
+            },
+            {
+                "rootNode": 78
+            },
+            {
+                "rootNode": 79
+            },
+            {
+                "rootNode": 80
+            },
+            {
+                "rootNode": 81
+            },
+            {
+                "rootNode": 82
+            },
+            {
+                "rootNode": 83
+            },
+            {
+                "rootNode": 84
+            },
+            {
+                "rootNode": 85
+            },
+            {
+                "rootNode": 86
+            },
+            {
+                "rootNode": 87
+            },
+            {
+                "rootNode": 88
+            },
+            {
+                "rootNode": 89
+            },
+            {
+                "rootNode": 90
+            },
+            {
+                "rootNode": 91
+            },
+            {
+                "rootNode": 92
+            },
+            {
+                "rootNode": 93
+            },
+            {
+                "rootNode": 94
+            },
+            {
+                "rootNode": 95
+            },
+            {
+                "rootNode": 96
+            },
+            {
+                "rootNode": 97
+            },
+            {
+                "rootNode": 98
+            },
+            {
+                "rootNode": 99
+            },
+            {
+                "rootNode": 100
+            },
+            {
+                "rootNode": 101
+            },
+            {
+                "rootNode": 102
+            },
+            {
+                "rootNode": 103
+            },
+            {
+                "rootNode": 104
+            },
+            {
+                "rootNode": 105
+            },
+            {
+                "rootNode": 106
+            },
+            {
+                "rootNode": 107
+            },
+            {
+                "rootNode": 108
+            },
+            {
+                "rootNode": 109
+            },
+            {
+                "rootNode": 110
+            },
+            {
+                "rootNode": 111
+            },
+            {
+                "rootNode": 112
+            },
+            {
+                "rootNode": 113
+            },
+            {
+                "rootNode": 114
+            },
+            {
+                "rootNode": 115
+            },
+            {
+                "rootNode": 116
+            },
+            {
+                "rootNode": 117
+            },
+            {
+                "rootNode": 118
+            },
+            {
+                "rootNode": 119
+            },
+            {
+                "rootNode": 120
+            },
+            {
+                "rootNode": 121
+            },
+            {
+                "rootNode": 122
+            },
+            {
+                "rootNode": 123
+            },
+            {
+                "rootNode": 124
+            },
+            {
+                "rootNode": 125
+            },
+            {
+                "rootNode": 126
+            },
+            {
+                "rootNode": 127
+            },
+            {
+                "rootNode": 128
+            },
+            {
+                "rootNode": 129
+            },
+            {
+                "rootNode": 130
+            },
+            {
+                "rootNode": 131
+            },
+            {
+                "rootNode": 132
+            },
+            {
+                "rootNode": 133
+            },
+            {
+                "rootNode": 134
+            },
+            {
+                "rootNode": 135
+            },
+            {
+                "rootNode": 136
+            },
+            {
+                "rootNode": 137
+            },
+            {
+                "rootNode": 138
+            },
+            {
+                "rootNode": 139
+            },
+            {
+                "rootNode": 140
+            },
+            {
+                "rootNode": 141
+            },
+            {
+                "rootNode": 142
+            },
+            {
+                "rootNode": 143
+            },
+            {
+                "rootNode": 144
+            },
+            {
+                "rootNode": 145
+            },
+            {
+                "rootNode": 146
+            },
+            {
+                "rootNode": 147
+            },
+            {
+                "rootNode": 148
+            },
+            {
+                "rootNode": 149
+            },
+            {
+                "rootNode": 150
+            },
+            {
+                "rootNode": 151
+            },
+            {
+                "rootNode": 152
+            },
+            {
+                "rootNode": 153
+            },
+            {
+                "rootNode": 154
+            },
+            {
+                "rootNode": 155
+            },
+            {
+                "rootNode": 156
+            },
+            {
+                "rootNode": 157
+            },
+            {
+                "rootNode": 158
+            },
+            {
+                "rootNode": 159
+            },
+            {
+                "rootNode": 160
+            },
+            {
+                "rootNode": 161
+            },
+            {
+                "rootNode": 162
+            },
+            {
+                "rootNode": 163
+            },
+            {
+                "rootNode": 164
+            },
+            {
+                "rootNode": 165
+            },
+            {
+                "rootNode": 166
+            },
+            {
+                "rootNode": 167
+            },
+            {
+                "rootNode": 168
+            },
+            {
+                "rootNode": 169
+            },
+            {
+                "rootNode": 170
+            },
+            {
+                "rootNode": 171
+            },
+            {
+                "rootNode": 172
+            },
+            {
+                "rootNode": 173
+            },
+            {
+                "rootNode": 174
+            },
+            {
+                "rootNode": 175
+            },
+            {
+                "rootNode": 176
+            },
+            {
+                "rootNode": 177
+            },
+            {
+                "rootNode": 178
+            },
+            {
+                "rootNode": 179
+            },
+            {
+                "rootNode": 180
+            },
+            {
+                "rootNode": 181
+            },
+            {
+                "rootNode": 182
+            },
+            {
+                "rootNode": 183
+            },
+            {
+                "rootNode": 184
+            },
+            {
+                "rootNode": 185
+            },
+            {
+                "rootNode": 186
+            },
+            {
+                "rootNode": 187
+            },
+            {
+                "rootNode": 188
+            },
+            {
+                "rootNode": 189
+            },
+            {
+                "rootNode": 190
+            },
+            {
+                "rootNode": 191
+            },
+            {
+                "rootNode": 192
+            },
+            {
+                "rootNode": 193
+            },
+            {
+                "rootNode": 194
+            },
+            {
+                "rootNode": 195
+            },
+            {
+                "rootNode": 196
+            },
+            {
+                "rootNode": 197
+            },
+            {
+                "rootNode": 198
+            },
+            {
+                "rootNode": 199
+            },
+            {
+                "rootNode": 200
+            },
+            {
+                "rootNode": 201
+            },
+            {
+                "rootNode": 202
+            },
+            {
+                "rootNode": 203
+            },
+            {
+                "rootNode": 204
+            },
+            {
+                "rootNode": 205
+            },
+            {
+                "rootNode": 206
+            },
+            {
+                "rootNode": 207
+            },
+            {
+                "rootNode": 208
+            }
+        ],
+        "Nodes": [
+            {
+                "Name": "PR_Tent02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1175434760498308,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tent01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1157069210323555,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_BullStatue_main_stand",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1197404568815818,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_BullStatue_Water01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1130214536931193,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_BullStatue_Water02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1152433249929264,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_BullStatue_main",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1109463770504880,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_TreeOfLife",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1142951403241775,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Pine01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1116474573352758,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Pine02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1193706186375313,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Pine03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1138417597453460,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Pine04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1129673530173951,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Pine05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1128225526245778,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Pine06",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1145696308286989,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_tree2",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1191989748153392,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_tree1",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1122772972118714,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Island",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1102574336141801,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_FlagPole01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1199763607957280,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Torch01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1139234578466335,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Torch03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1117406551110834,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Torch02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1132118777866273,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_SkinCircle",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1115503276300185,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Skin02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1176089824429904,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Skin03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1166363203921115,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Skin01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1121640356793218,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_PeltMakingTool",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1114994352906365,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Hanging_Clothes",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1160236542720788,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_FlagsHanging02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1144595149823103,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_FlagsHanging03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1158770549819410,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_FlagsHanging01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1136537647878273,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Fish_Basket",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1108007354510585,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Mushroom_Round",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1106838135755195,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Mushroom_Rectangular",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1109659681321326,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Mushroom_Flower",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1187589375790345,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Chest01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1112757137688897,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Chest02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1125312604503992,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Crate01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1101006935559683,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Crate02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1163735075536746,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Barrel",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1114359315593497,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Plow",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1139734363708624,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Bowl02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1149877383548507,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Bowl01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1195951430686989,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Flask01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1156748283836197,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Flask02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1195630933352584,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Plate",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1119261987033171,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Jar04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1102142338238277,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Vase05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1112212434915228,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Jar03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1160859860181180,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Jar01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1195892345305307,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Jar02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1125234187140994,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Vase02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1197433177916529,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Vase04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1155607978748276,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Vase03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1112295794739166,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_DrinkingHorn",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1169625021900792,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Flask03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1186926795166786,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_Jar05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1113257015771965,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_wheat02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1136289034217428,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Tributes_wheat01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1165644288987955,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "CH_Crow_Fly",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1138338854171419,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "CH_Crow_Stand",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1139559032043469,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Totem01_LP",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1179328552857584,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Totem02_LP",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1158605376444539,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Totem03_LP",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1125036895920686,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Totem04_LP",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1167808148858813,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Totem05_LP",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1150758959982676,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_TotemHead01_LP",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1135371542499252,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_TotemHead02_LP",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1112024870497300,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_TotemHead03_LP",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1126883502052723,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Corner_2x2_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1181370822673243,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Corner_1x1_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1192758892078606,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Corner_1x1_02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1143440639212701,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Corner_1x2",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1123804166649407,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Corner_2x2_02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1157614553117650,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x1_03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1101018880552524,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x2_04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1174298687381995,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x2_05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1121048952547346,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x1_04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1129033411125389,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x2_02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1132552054534831,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x1_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1187370777842870,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x1_02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1139349571766789,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x1_05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1155007848897629,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x2_03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1116024777586687,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x2_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1184746979661703,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_2x1_06",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1195628059131598,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_1x1_03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1140958021365597,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_1x1_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1170481083843316,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_1x3_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1158925837456735,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Rock_Wall_1x1_02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1156231937370610,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Altar01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1195018180465505,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Altar02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1161750717434072,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Altar03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1106653747162647,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rock_Circle01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1137065041586399,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rock_Circle02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1119522014212454,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rock_Circle03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1106695720032565,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rock_Circle04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1143681388415501,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rocks_Decorative01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1109509715349551,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rocks_Decorative02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1167103258490433,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rocks_Decorative03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1106064423519417,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rocks_Decorative04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1144820489083760,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rocks_Decorative05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1172359033087995,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rocks_Decorative06",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1118318319400365,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rocks_Decorative07",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1104625626349253,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Grain_Sack_02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1119790915603228,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_TopCloth04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1154488260001851,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_TopCloth01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1138534105856994,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_TopCloth02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1138386696130001,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_TopCloth03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1161963733477320,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Cart_Wheel",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1114584299535763,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Cart",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1170576508643974,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Cart_Logs",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1189428459948384,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Cart1",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1111225815019104,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Axe",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1179909815917418,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Banner01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1148455408956697,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Banner02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1138164325660880,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_HangedFlag01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1167474133260880,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_HangedFlag02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1124665842442203,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_HangedFlag03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1180862884503182,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Log",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1188585518997801,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rune01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1123186874367084,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rune02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1192775332740887,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rune03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1108696347161054,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rune04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1189150176596461,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rune05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1189745782491407,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rune06",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1186970970974231,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rune07",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1169390044893918,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Rune08",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1141637147978477,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Shield",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1118708881943044,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Sword01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1118740007750639,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Sword02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1185835251057654,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Haystack_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1136277039062853,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Haystack_02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1118994464397224,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Haystack_03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1102665091477095,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Grain_Sack_03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1156638581395119,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Grain_Sack_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1132446125916353,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Barricade01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1199690551946052,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Barricade02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1128629554262819,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Barricade03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1196176123476885,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_DefensiveWall01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1104886390196588,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_DefensiveWall02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1107605957096459,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_DefensiveWall03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1186671866259774,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_DefensiveWall04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1196535479512664,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_DefensiveWall05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1195506415855511,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_DefensiveWall06",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1137269054887518,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_DefensiveWall_Door",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1173865768927865,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_DefensiveWall_Trunk",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1150606981122865,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_HouseMid_T",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1119398430972468,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_HouseRectangular",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1127557602337427,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_HouseMiddle",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1118808459491195,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_HouseWorkspace",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1197497007229230,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_HouseMarket1",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1179783046272701,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_HouseCity_Hall",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1191382739836756,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_HouseSmall",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1121238081343155,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_Big_wall_Rectangle",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1148697570591398,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_Big_wall_point",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1112154710638709,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_Big_wall_Stepped_short",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1157213758195544,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_Big_wall_Stepped_tall",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1141373298571416,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_Big_wall_corner",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1184842920554467,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_Big_wall_Rectangle_and_Bricks",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1105809469960790,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_Arch1",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1134498838104742,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_Arch2",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1185429759948928,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_small_wall_ThickSide",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1146601200428171,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_small_wall_T_smaller",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1118954820326845,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_small_wall_T_taller",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1104536646866528,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_small_wall_L",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1192475385172831,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_small_wall_thin",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1179095640160242,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_small_wall_rectangle",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1194369487384930,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Sides_small_wall_ThickTop",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1111493298210652,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_09",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1123099795106439,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_08",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1113196765280719,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_03",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1193779961193185,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_06",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1151657328598104,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_05",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1198707187246488,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_02",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1118473158866146,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_10",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1124096888143570,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_07",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1199545435418945,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_04",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1139008525162436,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_corner",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1164870603041710,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_01",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1157687924909373,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_Stairs",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1145976120703444,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Stairs_Steps",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1189980808385843,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Pilar_Big",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1192790942901530,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Pilar_Small",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1162539455859018,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Wall_CornerDeco",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1170163965301764,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Pillarl_Small",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1104112371463651,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Pillarl_Big",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1136783526107211,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Arch_Weapon",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1109286640507763,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Temple_Arch_Entrance",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1160163078654310,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Temple_Arch_Small_Steps",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1140125900038464,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Temple_Arch_Small",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1179432352708415,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Arch_BackDeco_Straight",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1119734059756754,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Arch_BackDeco_Ramp",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1148632792952641,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Start_Side_Ramp",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1142040794658232,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Floor_Start",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1106660643120119,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Floor_Exit",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1149431056785343,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Temple_Bridge_Handle_Wood",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1107937161388358,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Temple_Bridge_Planks_x6",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1173385456351765,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Temple_Bridge_Planks_x4",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1100991812719597,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Temple_Bridge_Base1",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1195906111322895,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "PR_Temple_Bridge_Base2",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1107401741994518,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Door",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1196912726262886,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Door_Arch_Top",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1188054272922677,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_SpecialWall_FarmBull",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1122991308004631,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_SpecialWall_DeerHunt",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1126925981261790,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_SpecialWall_Deer",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1153031182876665,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_SpecialWall_Dog",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1171391509187772,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_SpecialWall_WarBull",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1133717166748903,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Bottom_Arch_Mid",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1134885752983865,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Bottom_Pilar",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1127905614545905,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Bottom_Arch_Big",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1199590518353140,
+                    1300000000000000
+                ]
+            },
+            {
+                "Name": "EN_Temple_Bottom_Arch_Big_Slide",
+                "Transform": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "ParentIndex": -1,
+                "Children": [],
+                "MeshesMaterials": [
+                    1173936360140639,
+                    1300000000000000
+                ]
+            }
+        ],
+        "Animations": [],
+        "Skins": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "UID": 1109279855350527,
+    "name": "Stars_Stars",
+    "assetPath": "Assets/Wall.gltf",
+    "lastModifiedDate": 0,
+    "importOptions": {
+        "generateTangents": true,
+        "transform": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "defaultMaterialUID": 1302211418115273,
+        "gltfMeshIndex": 1,
+        "gltfPrimitiveIndex": 0
+    }
+}
